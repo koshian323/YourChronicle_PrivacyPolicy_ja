@@ -1,67 +1,67 @@
-**Privacy Policy**
+**プライバシーポリシー**
 
-Kazuma Tomida built the Your Chronicle app as a Freemium app. This SERVICE is provided by Kazuma Tomida at no cost and is intended for use as is.
+Kazuma Tomidaは、Your Chronicleアプリをフリーミアムアプリとして構築しました。本サービスは、Kazuma Tomidaによって、そのまま使用する分には無償で提供されることを意図しています。
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+本ページは、本サービスをご利用いただくにあたり、個人情報の収集・利用・開示に関する方針をお知らせするためのものです。
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+お客様が私のサービスを利用される場合、このポリシーに関連した情報の収集と使用に同意されたものとします。私が収集する個人情報は、サービスを提供し、改善するために使用されます。私は、このプライバシーポリシーに記載されている場合を除き、誰ともあなたの情報を使用または共有することはありません。
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Your Chronicle unless otherwise defined in this Privacy Policy.
+このプライバシーポリシーで使用される用語は、このプライバシーポリシーで特に定義されない限り、Your Chronicleでアクセスできる当社の利用規約と同じ意味を持っています。
 
-**Information Collection and Use**
+**個人情報の収集・利用**
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+より良いエクスペリエンスのために、当社のサービスをご利用いただく際に、私はお客様に特定の個人を特定できる情報の提供をお願いすることがあります。私が要求する情報は、お客様のデバイスに保持され、私が何らかの形で収集することはありません。
 
-The app does use third-party services that may collect information used to identify you.
+本アプリは、お客様を特定するために使用される情報を収集する可能性のある第三者のサービスを使用しています。
 
-Link to the privacy policy of third-party service providers used by the app
+アプリが使用する第三者サービスプロバイダのプライバシーポリシーへのリンク
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 *   [Unity](https://unity3d.com/legal/privacy-policy)
 
-**Log Data**
+**ログデータ**
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+私は、お客様が私のサービスを利用するたびに、アプリにエラーが発生した場合、私はお客様の携帯電話上でログデータと呼ばれるデータと情報を（サードパーティ製品を通じて）収集することをお知らせしたいと思います。このログデータには、お客様の端末のインターネットプロトコル（以下「IP」）アドレス、端末名、オペレーティングシステムのバージョン、私のサービスを利用する際のアプリの設定、お客様がサービスを利用した日時、その他の統計情報などの情報が含まれる場合があります。
 
-**Cookies**
+**クッキー**
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+クッキーは、一般的に匿名の一意の識別子として使用される少量のデータを含むファイルです。これらは、お客様が訪問したウェブサイトからお客様のブラウザに送信され、お客様のデバイスの内部メモリに保存されます。
 
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+本サービスでは、この「クッキー」を明示的に使用することはありません。ただし、本アプリでは、情報収集やサービス向上のために、「クッキー」を使用するサードパーティのコードやライブラリを使用することがあります。お客様は、これらのクッキーを受け入れるか拒否するか、また、お客様のデバイスにクッキーが送信されたときにそれを知ることができるオプションがあります。お客様が当社のクッキーを拒否することを選択した場合、本サービスの一部をご利用いただけない場合があります。
 
-**Service Providers**
+**サービス提供元**
 
-I may employ third-party companies and individuals due to the following reasons:
+私は、以下の理由により、第三者の企業や個人を採用することがあります。
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+*   当社のサービスを円滑にするため。
+*   当社に代わって本サービスを提供するため。
+*   サービスに関連するサービスを提供するため。
+*   本サービスがどのように利用されているかの分析に協力するため。
 
-I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+これらの第三者がユーザーの個人情報にアクセスできることを、本サービスのユーザーにお知らせしたいと思います。その理由は、当社に代わって彼らに割り当てられたタスクを実行するためです。しかし、彼らは他の目的のために情報を開示または使用しないように義務付けられています。
 
-**Security**
+**セキュリティー**
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+私は、お客様の個人情報の提供に対するお客様の信頼を大切にし、そのために商業的に許容される手段を用いて保護に努めています。しかし、インターネット上の送信方法、または電子的な保存方法は、100％安全で信頼できるものではなく、その絶対的な安全性を保証することはできませんので、ご注意ください。
 
-**Links to Other Sites**
+**他のサイトへのリンク**
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+本サービスには、他のサイトへのリンクが含まれている場合があります。お客様が第三者のリンクをクリックすると、そのサイトへ移動します。これらの外部サイトは、私が運営しているわけではないことにご注意ください。したがって、私は、これらのウェブサイトのプライバシーポリシーを確認することを強くお勧めします。私は、第三者のサイトまたはサービスのコンテンツ、プライバシーポリシー、または実践について、いかなる管理も行わず、いかなる責任も負わないものとします。
 
-**Children’s Privacy**
+**お子様のプライバシー**
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
+これらのサービスは、13歳未満の人を対象としていません。 私は、13歳未満の子供から意図的に個人を特定できる情報を収集することはありません。万が一、13歳未満の子供から個人情報を提供されたことが判明した場合、私は直ちにこれを当社のサーバーから削除します。もしあなたが保護者で、あなたの子供が当社に個人情報を提供していることに気づかれた場合は、必要な措置を取らせていただきますので、私にご連絡ください。
 
-**Changes to This Privacy Policy**
+**プライバシーポリシーの変更**
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+私は、当社のプライバシーポリシーを随時更新することがあります。従って、お客様は定期的にこのページをご覧になり、変更を確認されることをお勧めします。私は、このページに新しいプライバシーポリシーを掲載することにより、変更を通知します。
 
-This policy is effective as of 2022-03-04
+このポリシーは、2022-03-04より有効となります。
 
-**Contact Us**
+**コンタクト**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at SamuraiGames3601@gmail.com.
+このプライバシーポリシーについてご質問やご提案がありましたら、ご遠慮なく SamuraiGames3601@gmail.com までご連絡ください。
 
-This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+このプライバシーポリシーは[privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)で作成されたものを翻訳したものです。
